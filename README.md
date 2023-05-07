@@ -25,7 +25,7 @@ $ http://localhost:7000
 ![home](https://user-images.githubusercontent.com/131695481/236691491-c3707299-447d-4392-97aa-1cf4e9cca94a.PNG)
 ![upload-files](https://user-images.githubusercontent.com/131695481/236691514-245d5f58-38d4-4835-8eee-31edd31bf65d.PNG)
 ![view-file](https://user-images.githubusercontent.com/131695481/236691532-228dad28-0809-4ba9-a9b0-f4d4cce8b0c9.PNG)
-![search-name](https://user-images.githubusercontent.com/131695481/236691542-ddd67502-8f19-40b4-9803-f0db902b524a.PNG
+![search-name](https://user-images.githubusercontent.com/131695481/236691542-ddd67502-8f19-40b4-9803-f0db902b524a.PNG)
 
 
 ## Features -
